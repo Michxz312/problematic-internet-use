@@ -9,7 +9,7 @@ This was a large, complex dataset with ~60 features and over 2,700 observations.
 ## Methods:
 
 ### EDA
-- What: were we working with (start_here.csv, data_dictionary.csv)
+- What: we're we working with (start_here.csv, data_dictionary.csv)
 Briefly describe datasets: size (rows x cols); complexity (types of info: [fitness: measurements; scores] [demographic] [no survey responses] - fill out all “instruments” and briefly describe - 12 types of measurement (instruments) + 1 output variable.  [recall that output variable is the product of survey]
 - How: How did we approach this:
 * EDA: key decisions re: dropping data
@@ -25,3 +25,4 @@ Confidence in the importance of Screen-time, Age, and Gender, which we then inpu
 - We divide into different subsets: elementary, middle school student, and college students
 
 
+Final result is in the initial_eda_workbook.ipynb

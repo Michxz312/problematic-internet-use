@@ -25,4 +25,4 @@ Confidence in the importance of Screen-time, Age, and Gender, which we then inpu
 - We divide into different subsets: elementary, middle school student, and college students
 
 
-Final result is in the initial_eda_workbook.ipynb
+Final result is in the Logistic_Regression.ipynb

@@ -1,4 +1,7 @@
-# Problematic-internet-use
+# Problematic internet use
+
+This is a submission for Vancouver DataJam October 2024. 
+
 ## Objective: As children age, they tend to spend more time on the computer
 
 Internet use can become problematic in certain individuals when online activities such as video gaming, social media use, web-streaming, pornography viewing and buying become excessive1. Recent studies have revealed that problematic internet use is quite prevalent (exists in up to 11.2% of young adults), and is associated with negative outcomes such as difficulties in regulating emotions, decreased avoidance of harmful activities and increased impulsivity

@@ -1,6 +1,8 @@
 # Problematic internet use
 
 This is a submission for Vancouver DataJam October 2024. 
+Group Members: Helena, Hunter, Melvika, Susu, Tien, Michealea
+Mentor: Tav Mcgregor
 
 ## Objective: As children age, they tend to spend more time on the computer
 
